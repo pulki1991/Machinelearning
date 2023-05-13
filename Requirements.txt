@@ -6,3 +6,6 @@ Vibrant
 Vidoes call
 
 dark mode
+payment option 
+Recieved money 
+send money 
